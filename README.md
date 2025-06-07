@@ -235,7 +235,7 @@ Secara keseluruhan, proyek ini tidak hanya menghasilkan model prediktif yang sia
 Dengan hasil ini, proyek menjadi fondasi yang kuat untuk pengembangan solusi berbasis machine learning yang akurat, efisien, dan mudah diakses.
 
 
-## ✅ Rekomendasi Action Items
+## Rekomendasi Action Items
 
 Berdasarkan analisis data serta insight dari dashboard *Jaya Jaya Institut Student Dropout Monitoring*, berikut adalah sejumlah rekomendasi strategis yang dapat diterapkan untuk menurunkan tingkat mahasiswa dropout dan meningkatkan retensi pendidikan:
 
