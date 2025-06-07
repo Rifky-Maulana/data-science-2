@@ -123,6 +123,14 @@ Dashboard ini dibuat menggunakan **Metabase** (versi lokal) untuk memvisualisasi
 
 ---
 
+Business dashboard telah dikembangkan menggunakan teknologi web modern dengan fitur-fitur komprehensif untuk monitoring attrition analysis. Dashboard ini dapat diakses dengan kredensial berikut:
+Akses Dashboard:
+```
+URL: http://localhost:3000
+Username: root@mail.com
+Password: root123
+```
+
 ### 📊 Ringkasan Utama
 
 | Keterangan           | Nilai     |
