@@ -130,6 +130,15 @@ URL: http://localhost:3000 atau http://localhost:3001
 Username: root@mail.com
 Password: root123
 ```
+### Jalankan Metabase dengan Docker
+```
+docker run -d \
+  --name metabase_projectB \
+  -p 3001:3000 \
+  -v $(pwd):/metabase.db \
+  -e MB_DB_FILE=/metabase.db/metabase_projectB.db.mv.db \
+  metabase/metabase
+```
 
 ### 📊 Ringkasan Utama
 
